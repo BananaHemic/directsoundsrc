@@ -1,0 +1,10 @@
+﻿  gstdirectsoundsrc.c
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(517): warning C4244: '=': conversion from 'guint64' to 'guint', possible loss of data
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(524): warning C4244: '=': conversion from 'guint64' to 'gint', possible loss of data
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(541): warning C4244: '=': conversion from 'guint64' to 'guint', possible loss of data
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(938): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(982): warning C4018: '<': signed/unsigned mismatch
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(1035): warning C4244: '=': conversion from 'gdouble' to 'glong', possible loss of data
+c:\users\j\documents\projects\directsoundsrc\directsoundsrc\gstdirectsoundsrc.c(1057): warning C4244: '=': conversion from 'gdouble' to 'glong', possible loss of data
+  directsoundsrc.vcxproj -> C:\Users\J\Documents\Projects\directsoundsrc\x64\Debug\directsoundsrc.dll
+          1 file(s) copied.
